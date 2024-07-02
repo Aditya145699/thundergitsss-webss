@@ -241,7 +241,7 @@ a {
 }
 
 .site-wrapper {
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 /*  <!-- ===1.1 header ==== --> */
