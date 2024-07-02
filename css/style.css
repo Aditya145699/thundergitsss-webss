@@ -240,6 +240,10 @@ a {
   padding-right: 15px;
 }
 
+.site-wrapper {
+  overflow-x: hidden;
+}
+
 /*  <!-- ===1.1 header ==== --> */
 
 .header-index {
