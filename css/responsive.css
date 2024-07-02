@@ -236,7 +236,7 @@
     width: 48%;
   }
 
-  .service-card .s-card {
+  .s-card {
     flex-wrap: wrap;
   }
 
